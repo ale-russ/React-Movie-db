@@ -14,7 +14,7 @@ function App() {
   })
 
   //omdb movie store api key
-  const apiurl = "http://www.omdbapi.com/?i=tt3896198&apikey=6c68ec5d";
+  const apiurl = "http://www.omdbapi.com/?apikey=6c68ec5d";
 
   //handle the search request
   const search = (e) => {
